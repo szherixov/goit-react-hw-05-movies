@@ -1,0 +1,23 @@
+.goBack {
+  display: flex;
+  justify-content: center;
+  width: 80px;
+  border: 1px solid rgb(129, 129, 129);
+  border-radius: 4px;
+  padding: 0 10px;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 20px;
+  background-color: rgb(235, 232, 232);
+  cursor: pointer;
+}
+.wrapper {
+  display: flex;
+}
+
+.Image {
+  width: 300px;
+}
+.description {
+  margin-left: 20px;
+}

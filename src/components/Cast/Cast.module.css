@@ -1,0 +1,8 @@
+.items {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.inner {
+  margin-left: 20px;
+}
